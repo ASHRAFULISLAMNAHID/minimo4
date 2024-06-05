@@ -1,0 +1,224 @@
+*{
+padding: 0;
+margin: 0;
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+padding: 0;
+margin: 0;
+}
+header{
+width: 90%;
+margin: 30px 5%;
+display: flex;
+justify-content: space-between;
+}
+.logo{
+}
+nav{
+display: flex;
+width: 50%;
+justify-content: space-between;
+margin: 8px;
+font-family: "Merriweather", serif;
+}
+nav ul{
+list-style: none;
+}
+nav ul li{
+}
+nav ul li a{
+color: #626262;
+text-transform: capitalize;
+text-decoration: none;
+}
+.banner{
+margin: 30px 5%;
+}
+.banner img{
+width: 100%;
+}
+.photodiary{
+margin: 30px 5%;
+padding: 25px 60px;
+}
+.photodiary h5{
+color: #c3beb2;
+text-transform: uppercase;
+font-size: 15px;
+padding-bottom: 20px;
+font-family: "Merriweather", serif; 
+}
+.photodiary h2{
+color: #626262;
+font-size: 29px;
+padding-bottom: 10px;
+font-family: "Oswald", sans-serif;
+}
+.photodiary p{
+font-family: "Cactus Classical Serif", serif;
+text-align: left;
+color: #acacac;
+font-size: 16px;
+margin: 18px 0px;
+font-family: "Ubuntu", sans-serif; 
+
+}
+.photodiary a{
+color: #acacac;
+text-decoration: none;
+text-transform: capitalize;
+margin: 29px 0px;
+font-size: 16px;
+font-family: "Merriweather", serif; 
+}
+.style{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin: 30px auto;
+width: 80%;
+}
+.one{
+width: 48%;
+}
+.one img{
+width: 95%;
+margin-bottom: 15px;
+}
+.one h5{
+color: #c3beb2;
+text-transform: uppercase;
+font-size: 15px;
+padding-bottom: 20px;
+font-family: "Merriweather", serif; 
+}
+.one h2{
+color: #626262;
+font-size: 29px;
+padding-bottom: 10px;
+font-family: "Oswald", sans-serif;
+}
+.one p{
+text-align: left;
+color: #acacac;
+font-size: 16px;
+margin: 18px 0px;
+font-family: "Ubuntu", sans-serif; 
+}
+.newsletter{
+background: #f0f0f0;
+}
+.email{
+padding-top: 70px;
+padding-bottom: 70px;
+text-align: center;
+}
+.email h2{
+font-size: 30px;
+color: #626262;
+margin: 40px;
+font-family: "Oswald", sans-serif; 
+}
+.email input{
+width: 32%;
+margin-bottom: 10px;
+margin-top: 15px;
+border: none;
+background-color: transparent;
+font-size: 16px;
+text-transform: capitalize;
+}
+.email span{
+display: block;
+border: solid 1px #6c7d82d3;
+width: 32%;
+margin: auto;
+}
+.book{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+margin: 30px auto;
+width: 80%;
+}
+.one{
+width: 48%; 
+}
+.one img{
+width: 95%;
+margin-bottom: 15px 
+}
+.one h5{
+color: #c3beb2;
+text-transform: uppercase;
+font-size: 15px;
+padding-bottom: 20px; 
+font-family: "Merriweather", serif; 
+}
+.one h2{
+color: #626262;
+font-size: 29px;
+padding-bottom: 10px; 
+font-family: "Oswald", sans-serif;
+}
+.one p{
+text-align: left;
+color: #acacac;
+font-size: 16px;
+margin: 18px 0px;
+font-family: "Ubuntu", sans-serif;  
+}
+.load{
+padding: 70px 0px;
+text-align: center;
+}
+.load a{
+font-size: 30px;
+border: none;
+border: 1px solid #626262;
+text-transform: capitalize;
+text-decoration: none;
+color: #acacac;
+background: transparent;
+padding: 5px 5px;
+border-radius: 3px;
+}
+footer{
+background: #f0f0f0;
+display: flex;
+padding-top: 30px;
+padding-bottom: 30px;
+
+}
+.one_f{
+margin-left: 40px;
+}
+.one_f a{
+text-transform: capitalize;
+text-decoration: none;
+color: #acacac;
+margin-right: 10px;
+font-family: "Merriweather", serif; 
+}
+.two_f{
+margin-left: auto;
+}
+.two_f a{
+margin-right: 37px;
+margin-left: auto;
+text-decoration: none;
+text-transform: capitalize;
+color: #acacac;
+}
+.two_f ul{
+display: flex;
+list-style: none;
+
+}
+.two_f ul li{
+
+}
+.two_f ul li a{
+font-family: "Merriweather", serif; 
+}
+ 
